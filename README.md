@@ -49,7 +49,7 @@ I'm a passionate Fullstack Developer and ML Enthusiast from India.</h1>
 <br/>
 
 <p align="left">
-    <a href="https://github.com/Gaurav04/github-readme-streak-stats">
+    <a href="https://github.com/Gaurav01745/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Gaurav Kumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav04&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
