@@ -84,4 +84,4 @@ I'm a passionate Fullstack Developer and ML Enthusiast from India.</h1>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=saurabhparshar">
 </a>
-<a href="https://github.com/Gaurav1745?tab=followers"><img src="https://img.shields.io/github/followers/Gaurav04?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Gaurav1745?tab=followers"><img src="https://img.shields.io/github/followers/Gaurav1745?label=Followers&style=social" alt="GitHub Badge"></a>
