@@ -19,14 +19,14 @@ I'm a passionate Full stack Developer and ML Enthusiast from India.</h1>
 <br>
   <br/>
 
-- 🌱 I’m currently learning  *<code>Data Structures and Algorithms</code>, <code>Machine Learning</code>*
+- 🌱 I’m currently learning  <b><code>Data Structures and Algorithms</code>, <code>Machine Learning</code></b>
 
-- 👨‍💻 All of my projects are available at *<code><a href="https://gauravs-portfolio.netlify.app/">[My Portfolio]</a></code>*
+- 👨‍💻 All of my projects are available at <b><code><a href="https://gauravs-portfolio.netlify.app/"> [My Portfolio] </a></code></b>
 
-- 📫 How to reach me *<code><a href="http://linkedin.com/in/gaurav-kumar-b52611202">LinkedIn</a></code>* *<code>[Gmail](mailto:gk29180@gmail.com)</code>* *<code><a href="https://www.twitter.com/in/Gaurav99kumar9/">Twitter</a></code>*
-- 👯 I’m looking to collaborate for *`Dev Projects`*
-- 🔥  Life Hack  *Learn new tech 🔥 and share what you have learned 🎉*
-- ⚡ Fun fact *I play games and go to the GYM very often.*
+- 📫 How to reach me <b><code><a href="http://linkedin.com/in/gaurav-kumar-b52611202">LinkedIn</a></code></b>  <b><code>[Gmail](mailto:gk29180@gmail.com)</code></b> <b><code><a href="https://www.twitter.com/in/Gaurav99kumar9/">Twitter</a></code></b>
+- 👯 I’m looking to collaborate for <b>Dev Projects</b>
+- 🔥  Life Hack  <b>Learn new tech 🔥 and share what you have learned 🎉</b>
+- ⚡ Fun fact <b>I play games and go to the GYM very often.</b>
  <br>
  
   <br/>
